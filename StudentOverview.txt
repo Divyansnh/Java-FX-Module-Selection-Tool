@@ -1,0 +1,13 @@
+Student Details:
+Student P-Number: 
+Student Name: 
+Student Email: 
+Submission Date: Not setCourse: Computer Science
+Selected Modules: CTEC3451 : Development Project, CTEC3704 : Functional Programming, CTEC3701 : Software Development: Methods & Standards, CTEC3702 : Big Data and Machine Learning, 
+Unselected Modules: IMAT3722 : Fuzzy Logic and Inference Systems,
+
+Selected Modules:
+CTEC3451 : Development Project, CTEC3704 : Functional Programming, CTEC3701 : Software Development: Methods & Standards, CTEC3702 : Big Data and Machine Learning
+
+Reserved Modules:
+Reserved Modules: IMAT3722 : Fuzzy Logic and Inference Systems
